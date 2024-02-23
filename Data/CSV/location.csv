@@ -1,0 +1,23 @@
+Loc_ID,LocName,StreetNo,StreetName,City,State,ZipCode,ServiceFlag
+1,Massachusetts General Hospital,55,Fruit St,Boston,Massachusetts,2114,Y
+2,Fenway Park,4,Yawkey Way,Boston,Massachusetts,2215,Y
+3,Boston Public Library,700,Boylston St,Boston,Massachusetts,2116,Y
+4,Harvard University,1350,Massachusetts Ave.,Cambridge,Massachusetts,2138,Y
+5,Boston Common,3,Tremont St,Boston,Massachusetts,2108,Y
+6,TD Garden,100,Legends Way,Boston,Massachusetts,2114,Y
+7,Gillette Stadium,1,Patriot Pl,Foxborough,Massachusetts,2035,Y
+8,Massachusetts Institute of Technology,77,Massachusetts Ave.,Cambridge,Massachusetts,2139,N
+9,The Museum of Fine Arts,465,Huntington Ave.,Boston,Massachusetts,2115,Y
+10,Harvard Medical School,25,Shattuck St,Boston,Massachusetts,2115,Y
+11,Boston Symphony Hall,301,Massachusetts Ave.,Boston,Massachusetts,2115,Y
+12,Harvard Law School,1585,Massachusetts Ave.,Cambridge,Massachusetts,2138,Y
+13,Massachusetts State House,24,Beacon St,Boston,Massachusetts,2133,Y
+14,New England Aquarium,1,Central Wharf,Boston,Massachusetts,2110,Y
+15,Harvard Square,4,Massachusetts Ave.,Cambridge,Massachusetts,2138,Y
+16,John F. Kennedy Presidential Library and Museum,5,Columbia Point,Boston,Massachusetts,2125,Y
+17,Salem Witch Museum,19,N Washington Sq.,Salem,Massachusetts,1970,Y
+18,The Paul Revere House,19,N Square,Boston,Massachusetts,2113,N
+19,Old Sturbridge Village,1,Old Sturbridge Village Rd,Sturbridge,Massachusetts,1566,Y
+20,USS Constitution Museum,3,Charlestown Navy Yard,Charlestown,Massachusetts,2129,Y
+21,Walden Pond,915,Walden St,Concord,Massachusetts,1742,Y
+22,Boston Tea Party Ships and Museum,306, Congress St.,Boston,Massachusetts,2210,N

@@ -1,0 +1,151 @@
+Loc_ID,LocName,StreetNo,StreetName,City,State,ZipCode,Service_Flag
+23,Holmberg,7278,Warrior,Huntsville,Alabama,35815,Y
+24,Ryan,0,Mitchell,Des Moines,Iowa,50369,Y
+25,Center,2,Independence,Burbank,California,91505,Y
+26,Linden,50,Dexter,Salt Lake City,Utah,84189,N
+27,Carpenter,437,Canary,Racine,Wisconsin,53405,N
+28,Barnett,1657,Eggendart,Hampton,Virginia,23668,N
+29,Morningstar,17,Northfield,San Jose,California,95108,Y
+30,Lotheville,942,Badeau,Denver,Colorado,80223,Y
+31,Graedel,6,Welch,Raleigh,North Carolina,27626,Y
+32,Corben,286,Muir,Tuscaloosa,Alabama,35405,N
+33,Merrick,38,Lakewood Gardens,Denver,Colorado,80270,Y
+34,Southridge,4,Katie,Santa Monica,California,90410,Y
+35,Mayer,0,Hanover,Fullerton,California,92835,N
+36,Del Mar,883,Heath,Tampa,Florida,33661,Y
+37,Bunker Hill,55,Pawling,Boise,Idaho,83757,N
+38,Meadow Valley,4,Morrow,Beaumont,Texas,77713,N
+39,Miller,4007,Doe Crossing,Tyler,Texas,75705,N
+40,Oakridge,861,Debra,Sioux City,Iowa,51105,N
+41,Warbler,69,Union,Lexington,Kentucky,40591,Y
+42,Parkside,5033,Stone Corner,Dallas,Texas,75226,Y
+43,Transport,193,Autumn Leaf,Des Moines,Iowa,50315,N
+44,Merrick,60671,Dexter,Rochester,New York,14652,Y
+45,Southridge,79671,Wayridge,Scranton,Pennsylvania,18505,Y
+46,Armistice,29224,Prairie Rose,Omaha,Nebraska,68110,Y
+47,Fieldstone,964,Red Cloud,Kissimmee,Florida,34745,N
+48,Luster,73509,Cardinal,Wichita,Kansas,67230,N
+49,Muir,44907,Corben,Hampton,Virginia,23668,Y
+50,Jackson,855,Bonner,Portland,Oregon,97240,Y
+51,Sauthoff,90775,Colorado,Mountain View,California,94042,N
+52,Veith,459,Glacier Hill,Hartford,Connecticut,6160,N
+53,Donald,8478,1st,Indianapolis,Indiana,46226,Y
+54,Roth,50852,Vidon,Tampa,Florida,33686,Y
+55,Mandrake,5188,Sherman,Bethlehem,Pennsylvania,18018,Y
+56,Park Meadow,29876,Mendota,Washington,District of Columbia,20425,N
+57,Florence,69854,Heffernan,Phoenix,Arizona,85062,Y
+58,Leroy,2613,Spohn,Baton Rouge,Louisiana,70894,N
+59,Oak Valley,81918,Jay,Los Angeles,California,90030,N
+60,Veith,6762,2nd,Houston,Texas,77020,N
+61,Paget,7356,Superior,Washington,District of Columbia,20299,Y
+62,Lotheville,6689,Ilene,Charleston,West Virginia,25336,N
+63,Glacier Hill,3953,Melby,Birmingham,Alabama,35290,N
+64,Vermont,86,North,Rochester,New York,14619,Y
+65,Gulseth,9,Moland,Hartford,Connecticut,6152,Y
+66,Forest Run,5,Evergreen,Wichita,Kansas,67220,Y
+67,Coleman,943,Dakota,Dayton,Ohio,45432,Y
+68,Heath,37,Barnett,Lexington,Kentucky,40581,N
+69,Canary,8,Utah,Albuquerque,New Mexico,87190,Y
+70,Riverside,4899,Morrow,Anaheim,California,92812,N
+71,Raven,16,Vera,Garden Grove,California,92645,Y
+72,Anniversary,394,Bashford,Albuquerque,New Mexico,87140,N
+73,Fordem,7838,Aberg,Lexington,Kentucky,40591,N
+74,Menomonie,13,Forest,Berkeley,California,94712,N
+75,Esker,242,Lawn,Inglewood,California,90398,N
+76,Crest Line,73,Dapin,Jackson,Mississippi,39204,N
+77,Kennedy,27,Ryan,San Diego,California,92196,N
+78,Esch,34,Basil,Paterson,New Jersey,7522,Y
+79,Pine View,96,Anthes,Boynton Beach,Florida,33436,Y
+80,Kings,28476,Miller,Santa Barbara,California,93106,Y
+81,Oakridge,4407,Di Loreto,Lake Worth,Florida,33462,N
+82,Farragut,19800,Monica,Jackson,Tennessee,38308,Y
+83,Independence,796,Lillian,Houston,Texas,77050,Y
+84,David,92,Stoughton,Buffalo,New York,14233,N
+85,Spenser,85,Ludington,Chicago,Illinois,60663,Y
+86,Fremont,42219,Elka,Buffalo,New York,14263,Y
+87,Hazelcrest,31337,Forest Run,Wichita,Kansas,67260,Y
+88,Maryland,550,Loeprich,Nashville,Tennessee,37220,N
+89,Nevada,77896,Nevada,Atlanta,Georgia,31165,N
+90,Hoepker,1,Scofield,New Haven,Connecticut,6520,N
+91,4th,1555,Golf View,Portland,Oregon,97232,Y
+92,Scoville,26109,Twin Pines,Boston,Massachusetts,2216,Y
+93,Sunnyside,9860,Ridge Oak,San Antonio,Texas,78296,Y
+94,Warrior,135,Mariners Cove,Fort Worth,Texas,76105,Y
+95,Meadow Valley,1836,Marquette,Philadelphia,Pennsylvania,19120,Y
+96,Weeping Birch,13304,Stone Corner,Birmingham,Alabama,35244,N
+97,Roth,45210,Eggendart,Harrisburg,Pennsylvania,17105,N
+98,Bellgrove,6,Luster,Torrance,California,90510,N
+99,John Wall,87,Miller,Baltimore,Maryland,21275,Y
+100,Grover,44533,West,New Castle,Pennsylvania,16107,Y
+101,Kingsford,55,Anderson,Canton,Ohio,44705,Y
+102,High Crossing,3231,Vernon,Lancaster,Pennsylvania,17605,N
+103,Clove,906,Del Sol,Pueblo,Colorado,81015,Y
+104,Vernon,9443,Oak,Cape Coral,Florida,33915,Y
+105,Heffernan,37,Northridge,Fort Collins,Colorado,80525,N
+106,Loeprich,4,Pawling,Baton Rouge,Louisiana,70826,Y
+107,Cambridge,7085,Dottie,Washington,District of Columbia,20226,Y
+108,Moland,1,Evergreen,Tulsa,Oklahoma,74184,N
+109,Stephen,78239,Lakewood,Pittsburgh,Pennsylvania,15220,N
+110,Golf,82,Cambridge,Chicago,Illinois,60686,Y
+111,Gateway,9,Fuller,Pittsburgh,Pennsylvania,15215,N
+112,Colorado,34,Bowman,Salt Lake City,Utah,84145,Y
+113,Roth,50,Kipling,Mobile,Alabama,36605,Y
+114,Almo,9,Loftsgordon,Sioux City,Iowa,51110,Y
+115,Glacier Hill,92351,Old Gate,Arvada,Colorado,80005,N
+116,Judy,702,Pearson,Washington,District of Columbia,20226,Y
+117,Mcbride,72676,Artisan,Trenton,New Jersey,8650,N
+118,Warner,33,Hanson,Peoria,Illinois,61614,N
+119,Homewood,8,Mayer,Monticello,Minnesota,55565,N
+120,7th,2481,Pepper Wood,Cleveland,Ohio,44105,N
+121,Oriole,94,Cordelia,Olympia,Washington,98516,Y
+122,Waubesa,83,Mccormick,Littleton,Colorado,80161,Y
+123,Ramsey,2,Lyons,Fort Wayne,Indiana,46867,N
+124,Del Mar,12104,Holmberg,Gainesville,Georgia,30506,N
+125,Melrose,7,Lotheville,San Diego,California,92165,Y
+126,Gale,97553,Hagan,Bronx,New York,10459,N
+127,Lien,38666,Lakeland,Orlando,Florida,32891,N
+128,Evergreen,18,Onsgard,Fort Pierce,Florida,34981,N
+129,Colorado,40,Main,Charlotte,North Carolina,28278,N
+130,Eagle Crest,38353,Fallview,Memphis,Tennessee,38136,Y
+131,Moland,71087,Pond,Boise,Idaho,83727,Y
+132,Fulton,1,Helena,Canton,Ohio,44710,N
+133,Buhler,3534,Dottie,Boston,Massachusetts,2283,N
+134,Sundown,2557,Canary,Oklahoma City,Oklahoma,73135,N
+135,Hooker,7750,Colorado,Kansas City,Missouri,64109,N
+136,Main,9,Prentice,Colorado Springs,Colorado,80910,N
+137,Morningstar,627,Spohn,Tyler,Texas,75710,Y
+138,Prentice,1,Twin Pines,Atlanta,Georgia,31190,N
+139,Rigney,55,Westport,Saint Petersburg,Florida,33731,Y
+140,Hansons,10,Blaine,Buffalo,New York,14210,Y
+141,Dottie,1535,Transport,Ocala,Florida,34479,N
+142,Meadow Valley,27224,2nd,Bradenton,Florida,34205,N
+143,Delaware,0,4th,Springfield,Illinois,62723,N
+144,Rutledge,93,Roxbury,Roanoke,Virginia,24048,Y
+145,Charing Cross,2,Ridgeview,Rochester,New York,14652,N
+146,Schlimgen,69,Bay,Albuquerque,New Mexico,87115,N
+147,Lindbergh,5258,Pierstorff,Orlando,Florida,32825,N
+148,Memorial,52674,Artisan,Topeka,Kansas,66611,N
+149,Manufacturers,51622,Lien,Baton Rouge,Louisiana,70883,Y
+150,Donald,5878,Scoville,Madison,Wisconsin,53790,N
+151,Main,62,Center,Springfield,Missouri,65810,N
+152,Lukken,0,Clove,Spokane,Washington,99205,Y
+153,Gulseth,453,Autumn Leaf,Honolulu,Hawaii,96810,N
+154,Division,410,Maple Wood,Seattle,Washington,98133,N
+155,Pond,19352,Arizona,Fresno,California,93726,Y
+156,Village,26,Reinke,Fort Wayne,Indiana,46805,Y
+157,Goodland,515,Village Green,New York City,New York,10275,Y
+158,Prairieview,761,Hoffman,Albuquerque,New Mexico,87115,Y
+159,2nd,551,Shoshone,Gainesville,Florida,32610,N
+160,Londonderry,609,Clove,Midland,Texas,79705,Y
+161,Mandrake,58937,Menomonie,New York City,New York,10270,Y
+162,Ridgeview,57,Cherokee,Lynchburg,Virginia,24503,Y
+163,Killdeer,57,Schurz,Youngstown,Ohio,44511,N
+164,Garrison,22602,Crescent Oaks,San Antonio,Texas,78245,N
+165,Lighthouse Bay,956,Bultman,Milwaukee,Wisconsin,53205,N
+166,Bultman,7,Melody,Clearwater,Florida,34615,Y
+167,Sauthoff,94,Badeau,Tuscaloosa,Alabama,35405,N
+168,Kinsman,25042,Mifflin,Fort Lauderdale,Florida,33355,N
+169,Valley Edge,20985,Loomis,Nashville,Tennessee,37250,Y
+170,Hintze,58,Walton,Mobile,Alabama,36622,Y
+171,Buell,8974,Northview,Newark,New Jersey,7188,Y
+172,Chinook,2,Prentice,Chicago,Illinois,60657,N

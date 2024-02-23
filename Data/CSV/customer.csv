@@ -1,0 +1,31 @@
+Cust_ID,FirstName,LastName,DOB,Age,PhoneNumber,Email_ID,MembershipID,DL_Number
+1, John, Doe, 1990-01-01,32,5555555555, johndoe@example.com, M02,C0123456
+2, Jane, Smith, 1985-05-12,37,5555555556, janesmith@example.com, M03,H8901234
+3, Robert, Johnson, 1995-03-18,27,5555555557, robertjohnson@example.com, M01,B9012345
+4, Emily, Davis, 1988-11-05,33,5555555558, emilydavis@example.com, NULL,J0123456
+5, Michael, Wilson, 1992-07-22,29,5555555559, michaelwilson@example.com, M02,E2345678
+6, Sophia, Garcia, 1989-09-15,32,5555555560, sophiagarcia@example.com, NULL,G7890123
+7, William, Anderson, 1983-04-08,38,5555555561, williamanderson@example.com, M01,B9012345
+8, Isabella, Brown, 1998-06-03,23,5555555562, isabellabrown@example.com, NULL,W3456789
+9, David, Taylor, 1991-02-21,30,5555555563, davidtaylor@example.com, M03,T0123456
+10, Mia, Lee, 1996-12-29,25,5555555564, mialeee@example.com, M01,P6789012
+11, Christopher, Jackson, 1986-08-13,35,5555555565, christopherjackson@example.com, NULL,U1234567
+12, Olivia, Moore, 1994-10-07,27,5555555566, oliviamoore@example.com, M02,Y5678901
+13, Daniel, Martin, 1990-09-24,31,5555555567, danielmartin@example.com, M03,E2345678
+14, Ava, Lee, 1998-02-11,23,5555555568, avalee@example.com, M01,F3456789
+15, Matthew, Hall, 1986-08-13,35,5555555569,matthall@example.com,M06,A8901234
+16, John, Doe, 1990-01-01,32,5555555570, johndoe@example.com, M02,C0123456
+17, Jane, Smith, 1985-05-12,37,5555555571, janesmith@example.com, M03,P6789012
+18, Robert, Johnson, 1995-03-18,27,5555555572, robertjohnson@example.com, M21,B9012345
+19, Emily, Davis, 1988-11-05,33,5555555573, emilydavis@example.com, NULL,J0123456
+20, Michael, Wilson, 1992-07-22,29,5555555574, michaelwilson@example.com,M30,E2345678
+21, Sophia, Garcia, 1989-09-15,32,5555555575, sophiagarcia@example.com, NULL,G7890123
+22, William, Anderson, 1983-04-08,38,5555555576, williamanderson@example.com,M25,B9012345
+23, Isabella, Brown, 1998-06-03,23,5555555577, isabellabrown@example.com, NULL,W3456789
+24, David, Taylor, 1991-02-21,30,5555555578, davidtaylor@example.com,M16,O5678901
+25, Mia, Lee, 1996-12-29,25,5555555579, mialeee@example.com,M27,C0123456
+26, Christopher, Jackson, 1986-08-13,35,5555555580, christopherjackson@example.com, NULL,U1234567
+27, Olivia, Moore, 1994-10-07,27,5555555581, oliviamoore@example.com,M21,Y5678901
+28, Daniel, Martin, 1990-09-24,31,5555555582, danielmartin@example.com,M23,J0123456
+29, Ava, Lee, 1998-02-11,23,5555555583, avalee@example.com,M14,F3456789
+30, Matthew, Hall, 1986-08-13,35,5555555584,matthall@example.com,M12,A8901234
